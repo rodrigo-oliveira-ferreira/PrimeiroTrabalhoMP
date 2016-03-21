@@ -1,0 +1,25 @@
+.sessao {
+	width: 400px;
+	margin: 270px auto 0px;
+	text-align: center;
+	display: block;
+	background-color: rgba(0, 0, 0, 0.8);
+    font
+}
+
+.image.perfil {
+    background: url(perfil.png) no-repeat;
+    background-size: contain;
+    
+}
+.main{
+    background-color: black;
+}
+.sessao h2{
+	font-size: 30px;
+	display: inline-block;
+    color: #FFF;
+}
+body{
+    font-family: monospace;
+}
